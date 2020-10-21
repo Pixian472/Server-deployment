@@ -117,8 +117,4 @@ For now, the plugin only works with Lambda functions invoked by
 * CloudWatch Logs
 * IoT rules
 
-[More events](https://serverless.com/framework/docs/providers/aws/events/) will be added soon.
 
-## <a name="license"></a>License
-
-ISC © [David García](https://github.com/davidgf)
